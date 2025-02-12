@@ -51,9 +51,16 @@ Content-Type: application/json
 ```
 
 Customer → Müşteri bilgilerini saklar
+
 Item → Ürün veya hizmet bilgilerini saklar
+
 Sales Invoice → Fatura oluşturmak için kullanılır
+
 Purchase Invoice → Satın alma faturaları için kullanılır
+
 Stock Entry → Stok hareketlerini kaydetmek için kullanılır
+
 Employee → Çalışan bilgilerini yönetmek için kullanılır
+
 Timesheet → Çalışma saatlerini takip etmek için kullanılır
+
